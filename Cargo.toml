@@ -1,0 +1,13 @@
+[package]
+name = "bigbang-generator"
+version = "0.1.0"
+edition = "2021"
+description="In develop"
+repository="https://github.com/BigBangNFTs/bigbang-generator"
+license = "Apache-2.0"
+
+[[bin]]
+name = "bigbang"
+path = "src/main.rs"
+
+[dependencies]
